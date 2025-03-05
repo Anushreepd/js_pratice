@@ -1,1 +1,1 @@
-### Java script pratice 
+### This repository contains a series of JavaScript exercises and projects that I’ve worked on as part of my journey to learn and improve my skills in JavaScript programming. Each file focuses on a different aspect of JavaScript, ranging from basic syntax and control flow to advanced topics.
